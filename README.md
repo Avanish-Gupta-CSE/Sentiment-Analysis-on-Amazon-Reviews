@@ -1,4 +1,5 @@
 # Sentiment-Analysis-on-Amazon-Reviews-Minor-Project
+
 We analysed the sentiment of reviews present on Amazon through a dataset
 
 This sentiment analysis project aims to analyze customer reviews of products on 
